@@ -12,7 +12,7 @@ This project is a starting point for a Flutter application.
   #
    <img src="https://github.com/Liuruiwen/flutter_go/blob/master/image/show7.jpg" width="240"> 
    <br>
- # # # 相关功能简单介绍<br>
+ # # # 相关功能简单介绍，如有不足之处，希望各位大佬指导和交流<br>
       ①登录、注册 并使用shared_preferences 保存登录信息。  <br>
       ② 首页：快讯、热门、体系。  <br>
       ③ 学识结构。  <br>
