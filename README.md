@@ -3,6 +3,7 @@ This project is a starting point for a Flutter application.
 <div>
  
     <p>感谢鸿洋大佬提供的<a href="https://www.wanandroid.com/blog/show/2">开源api</a></p>
+</div>
 # 相关效果图如下
  <img src="https://github.com/Liuruiwen/flutter_go/blob/master/image/show1.png" width="240">  <img src="https://github.com/Liuruiwen/flutter_go/blob/master/image/show2.png" width="240">  <img src="https://github.com/Liuruiwen/flutter_go/blob/master/image/show3.png" width="240">
  #
