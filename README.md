@@ -1,6 +1,6 @@
 This project is a starting point for a Flutter application.
 #  Flutter版 WanAndroid App.
-#  因没有苹果电脑和苹果手机，需打包测试包的需自己配置。
+# 注：因没有苹果电脑和苹果手机，需打包测试包的需自己配置。
 <div>
    <p> <a href="https://www.wanandroid.com/blog/show/2">感谢鸿洋大佬提供的开源api</a></p>
 <div>
