@@ -1,16 +1,22 @@
-# flutter_go
-
-A new Flutter application.
-
-## Getting Started
-
 This project is a starting point for a Flutter application.
+#  Flutter版 WanAndroid App.
+<div>
+ 
+    <p>感谢鸿洋大佬提供的<a href="https://www.wanandroid.com/blog/show/2">开源api</a></p>
+# 相关效果图如下
+ <img src="https://github.com/Liuruiwen/flutter_go/blob/master/image/show1.png">  <img src="https://github.com/Liuruiwen/flutter_go/blob/master/image/show2.png" width="240">  <img src="https://github.com/Liuruiwen/flutter_go/blob/master/image/show3.png" width="240">
+ #
+  <img src="https://github.com/Liuruiwen/flutter_go/blob/master/image/show4.png">  <img src="https://github.com/Liuruiwen/flutter_go/blob/master/image/show5.png" width="240">  <img src="https://github.com/Liuruiwen/flutter_go/blob/master/image/show6.png" width="240">
+  #
+   <img src="https://github.com/Liuruiwen/flutter_go/blob/master/image/show7.png"> 
+ # # # 相关功能简单介绍
+   ①登录、注册 并使用shared_preferences 保存登录信息。  
+   ② 首页：快讯、热门、体系。  
+   ③ 学识结构。  
+   ③ 我的等等相关功能模块。  
+ # 扫码下载apk
+   <img src="https://github.com/Liuruiwen/flutter_go/blob/master/image/apk_code.png"> 
+ 
+</div>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
