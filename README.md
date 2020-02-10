@@ -1,5 +1,8 @@
 This project is a starting point for a Flutter application.
-#  Flutter版 WanAndroid App.
+#  Flutter版 WanAndroid App，适合初学者看看，进阶的可以点击.
+<div>
+   <p> <a href="https://github.com/Liuruiwen/AndroidFlutter2">Android和flutter交互</a></p>
+<div>
 # 注：因没有苹果电脑和苹果手机，需打包测试包的需自己配置。
 <div>
    <p> <a href="https://www.wanandroid.com/blog/show/2">感谢鸿洋大佬提供的开源api</a></p>
